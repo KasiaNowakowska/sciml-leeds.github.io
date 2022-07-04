@@ -80,3 +80,13 @@
   applications:
     - Storm tracking and initiation prediction
     - Precipitation nowcasting 
+
+- 
+- name: Kasia Nowakowska
+  social:
+    website: 
+    github: KasiaNowakowska
+  techniques:
+    
+  applications:
+    - modelling convection
